@@ -45,6 +45,4 @@ function pembagian($angka1, $angka2)
 $hasil=pembagian(10,3);
 echo "Hasil Pembagian 10 : 3 = ".$hasil;
 
-
-
 ?>
